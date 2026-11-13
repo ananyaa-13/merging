@@ -1,0 +1,1 @@
+print("there are two types of merging")
